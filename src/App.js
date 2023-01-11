@@ -8,12 +8,6 @@ function App() {
           <button className="btn">Delete</button>
         </div>
       </div>
-      <div className="card">
-        <h2>TITLE 2</h2>
-        <div className="actions">
-          <button className="btn">Delete</button>
-        </div>
-      </div>
     </div>
   );
 }

@@ -23,8 +23,6 @@ function NewMeetupForm() {
       address: enteredAddress,
       description: enteredDescription,
     };
-
-    console.log(meetupData)
   }
 
   return (

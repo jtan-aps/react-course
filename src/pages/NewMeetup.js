@@ -5,6 +5,7 @@ function NewMeetupPage() {
   function addMeetupHandler(meetupData){
 
   }
+  
   return (
     <section>
       <h1>Add New Meetup</h1>
